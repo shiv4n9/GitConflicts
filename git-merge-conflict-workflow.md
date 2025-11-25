@@ -203,6 +203,9 @@ This workflow demonstrates:
 - `git commit` - Complete the merge
 
 ## Expected Final State
-- README.md line 5 contains the combined feature text
+- README.md contains the combined feature text
 - Both feature branches are merged into main
 - Clean commit history showing the conflict resolution
+
+## Repository Information
+This complete workflow is available at: https://github.com/shiv4n9/GitConflicts

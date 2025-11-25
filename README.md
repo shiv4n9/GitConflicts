@@ -10,16 +10,12 @@ This repository demonstrates how to intentionally create and resolve Git merge c
 ## Features
 - Feature One Implemented and Feature Two Added
 - Simple command-line interface
-- Complete Git workflow documentation
-- Automated execution scripts for Windows and Linux/Mac
+- Complete Git workflow documentation with step-by-step commands
 
 ## Files in This Repository
 - `calculator.py` - Simple Python calculator with basic arithmetic functions
 - `README.md` - This documentation file (target for merge conflicts)
-- `git-merge-conflict-workflow.md` - Detailed step-by-step workflow guide
-- `execute-git-workflow.bat` - Automated Windows execution script
-- `execute-git-workflow.sh` - Automated Linux/Mac execution script
-- `manual-steps-summary.md` - Quick reference guide
+- `git-merge-conflict-workflow.md` - Complete step-by-step workflow guide with all Git commands
 
 ## Usage
 Run `python calculator.py` to test the calculator functions.
@@ -31,10 +27,8 @@ This project shows how to:
 3. Manually resolve conflicts using Git commands
 4. Maintain clean commit history
 
-## Execution
-- **Windows:** Run `execute-git-workflow.bat`
-- **Linux/Mac:** Run `./execute-git-workflow.sh`
-- **Manual:** Follow steps in `git-merge-conflict-workflow.md`
+## How to Use
+Follow the step-by-step commands in `git-merge-conflict-workflow.md` to recreate the merge conflict demonstration.
 
 ## Learning Objectives
 This repository demonstrates Git merge conflict resolution for educational purposes and assignment completion.
