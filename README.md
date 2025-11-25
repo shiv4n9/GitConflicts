@@ -3,7 +3,7 @@
 This is a simple Python calculator project for demonstrating Git workflows.
 
 ## Features
-- Basic arithmetic operations
+- Feature Two Added
 - Simple command-line interface
 
 ## Usage
